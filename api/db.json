@@ -1,0 +1,44 @@
+{
+  "todos": [
+    {
+      "title": "Estudar Vue.JS",
+      "completed": true,
+      "id": 1
+    },
+    {
+      "title": "Estudar Laravel PHP",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "title": "Estudar Tailwind CSS",
+      "completed": true,
+      "id": 3
+    },
+    {
+      "title": "Estudar JQuery",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "title": "Estudar Docker",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "title": "Estudar JavaScript",
+      "completed": true,
+      "id": 6
+    },
+    {
+      "title": "Estudar Git",
+      "completed": false,
+      "id": 7
+    },
+    {
+      "title": "Estudar Mongo DB",
+      "completed": true,
+      "id": 8
+    }
+  ]
+}
